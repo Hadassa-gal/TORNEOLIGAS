@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TORNEOLIGAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f5ab41cdb5a15a5b3f081f33e3d0b227bd01246")]
 [assembly: System.Reflection.AssemblyProductAttribute("TORNEOLIGAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TORNEOLIGAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

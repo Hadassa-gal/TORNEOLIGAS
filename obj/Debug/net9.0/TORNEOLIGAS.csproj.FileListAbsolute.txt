@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\C#\TORNEOLIGAS\bin\Debug\net9.0\TORNEOLIGAS.exe
+C:\Users\HP\Documents\C#\TORNEOLIGAS\bin\Debug\net9.0\TORNEOLIGAS.deps.json
+C:\Users\HP\Documents\C#\TORNEOLIGAS\bin\Debug\net9.0\TORNEOLIGAS.runtimeconfig.json
+C:\Users\HP\Documents\C#\TORNEOLIGAS\bin\Debug\net9.0\TORNEOLIGAS.dll
+C:\Users\HP\Documents\C#\TORNEOLIGAS\bin\Debug\net9.0\TORNEOLIGAS.pdb
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.sourcelink.json
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.dll
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\refint\TORNEOLIGAS.dll
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.pdb
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\TORNEOLIGAS.genruntimeconfig.cache
+C:\Users\HP\Documents\C#\TORNEOLIGAS\obj\Debug\net9.0\ref\TORNEOLIGAS.dll

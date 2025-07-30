@@ -85,12 +85,9 @@ namespace Ui
         }
         public static void DibujarBordeInferior(string mensaje)
         {
-            int ancho = AnchoBase; // O calcular dinámicamente si es necesario
-
+            int ancho = AnchoBase;
             Console.ForegroundColor = DecoracionColor;
             Console.WriteLine("┣" + new string('━', ancho - 2) + "┫");
-
-            // Mensaje centrado
             int espacios = (ancho - mensaje.Length) / 2;
             Console.WriteLine("┃" + new string(' ', espacios) + mensaje + new string(' ', ancho - mensaje.Length - espacios - 2) + "┃");
 
@@ -102,7 +99,6 @@ namespace Ui
         }
         public static void MostrarOpcion(string textoOpcion)
         {
-            //Console.ForegroundColor = OpcionesColor;
             Console.WriteLine("  " + textoOpcion);
         }
         public static void MostrarPrompt()
